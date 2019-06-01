@@ -3,7 +3,7 @@
 * MB: Aorus Gaming 3
 * GPU: GTX 980ti
 * CPU: i5-7640x
-* Cooler: Cooler master something
+* Cooler: Corsair H115i PRO + Upgrade one FAN to noctua nf-a14 industrialppc-2000
 * RAM: Crucial Ballistix Tactical 16gb ddr4-2666
 * Case: Corsair Carbide Series 270R
 * SSD: Samsung M.2 nve drive
