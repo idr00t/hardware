@@ -8,7 +8,7 @@
 * Case: Corsair Carbide Series 270R
 * SSD: Samsung M.2 nve drive
 * Bluetooth usb adapter
-* Mic: Zalman ZM-Mic1
+* Mic: Creative Sound Blaster E5 & backup - Zalman ZM-Mic1
 * Mouse: Logitech G305
 * Mouse Pad: HyperX FURY S Pro, L 
 * Keyboard: Steelseries APEX 150
@@ -18,4 +18,4 @@
 * Sound card: Creative Sound Blaster E5
 * Camera: Logitech c920
 
-* New router: Mikrotik RB4011iGS+RM
+* Router: Mikrotik RB4011iGS+RM
