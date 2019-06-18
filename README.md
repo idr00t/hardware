@@ -1,7 +1,7 @@
 # hardware
 
 * MB: Aorus Gaming 3
-* GPU: GTX 980ti
+* GPU: GTX 1080ti
 * CPU: i7-9800X
 * Cooler: Corsair H115i PRO + Upgrade one FAN to noctua nf-a14 industrialppc-2000
 * RAM: Crucial Ballistix Tactical 16gb ddr4-2666
