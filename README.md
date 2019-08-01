@@ -1,10 +1,10 @@
 # hardware
 
 * MB: Aorus Gaming 3
-* GPU: STRIX GTX 1080ti 11GB and MSI 1070 8GB
+* GPU: STRIX GTX 1080ti 11GB
 * CPU: i7-9800X
 * Cooler: Corsair H115i PRO + Upgrade one FAN to noctua nf-a14 industrialppc-2000
-* RAM: Crucial Ballistix Tactical 16gb ddr4-2666
+* RAM: G.Skill 32GB DDR4 3200
 * Case: Corsair Carbide Series 270R
 * SSD: Samsung M.2 nve drive
 * Bluetooth usb adapter
