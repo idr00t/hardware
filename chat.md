@@ -21,6 +21,8 @@
 * !everything 250 points
 * !lighthouse 250 points
 * !pain 300 points
+* !mortals 300 points
+* !keepyou 300 points
 
 
 ## Followers
