@@ -17,11 +17,13 @@
 * !ohyeah 20 points
 
 ### Music
-
+* !linked 250 points	
+* !everything 250 points
+* !lighthouse 250 points
+* !pain 300 points
 
 
 ## Followers
-
 * !1st 50 points
 * !hahaaa 50 points
 * !gg 50 points
