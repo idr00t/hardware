@@ -1,21 +1,21 @@
-# hardware
+# Hardware
 
 * MB: Gigabyte Z390 AORUS ULTRA
-* GPU: MSI GTX 1080ti GAMING X
 * CPU: i9-9900K
-* Cooler: Corsair H115i PRO + Upgrade one FAN to noctua nf-a14 industrialppc-2000
+* Cooler: Noctua NH-D15
 * RAM: G.Skill 32GB DDR4 3200
-* Case: Corsair Carbide Series 270R
+* GPU: MSI RTX 3080 GAMING X Trio
 * SSD: Samsung EVO M.2 nve drive
-* Bluetooth usb adapter
+* PSU: EVGA 1200w Supernova
+* Case: be quiet! Silent Base 801
 * Mic: Shure SM58 + Focusrite Solo
-* Mouse: Logitech G305
-* Mouse Pad: HyperX FURY S Pro, L 
-* Keyboard: HyperX Alloy FPS Pro
-* PSU: Chieftec GPM-1250C
-* Headset: ATH-A500X
-* Monitor: Viewsonic XG2402.
 * Sound card: Focusrite Solo
-* Camera: Logitech c920
+* Mouse: Razer Viper 8K
+* Mouse Pad: Cooler Master MP510
+* Keyboard: Logitec G613
+* Headset: Bose QC 35
+* Monitor: Samsung Odyssey G7 27
+* Camera 1: Canon M50
+* Camera 2: Logitech c920
 
 * Router: Mikrotik RB4011iGS+RM
