@@ -13,7 +13,7 @@
 * Mouse: Razer Viper 8K
 * Mouse Pad: Cooler Master MP510
 * Keyboard: Logitec G613
-* Headset: Bose QC 35
+* Headset: Audio Technica ATH-A500X
 * Monitor: Samsung Odyssey G7 27
 * Camera 1: Canon M50
 * Camera 2: Logitech c920
